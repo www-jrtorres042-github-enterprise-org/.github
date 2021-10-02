@@ -1,0 +1,19 @@
+ - Security Private Policy
+
+ -- Supported Services 
+ 
+ Use this section to tell people about which service of your project are are currently being supported with security update.
+ 
+ 
+ | Servics | Supported          |
+ |         |                    |
+ | 5.1.+   | :white_check_mark: |
+ | 5.0.+   | :+:                |
+ | 4.0.+   | :white_check_mark: |
+ | < 4.0   | :+:                |
+ 
+ -- Reporting Confidentiality
+ 
+ use this section to tell people how to report confidentiality.
+ 
+ Tell them where to go, how often can expect to get an update on areported confidentiality, what to expect if the confidentiality is acceptable or declined,etc
